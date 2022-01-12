@@ -1,4 +1,4 @@
-VirtualPad was developed during the start of the Covid-19 pandemic, as a method for playing contact-free arcade games. By loading a React-based controller webpage, one's phone browser can interface with an instance of Unity over the web, no wi-fi connection or app download required.
+VirtualPad was developed during the start of the COVID-19 pandemic, as a method for playing contact-free arcade games. By loading a React-based controller webpage, one's phone browser can interface with an instance of Unity over the web, no wi-fi connection or app download required.
 
 Note: this project is in an unfinished/early prototype state and may not work properly without fixing outdated dependencies and manually modifying the configuration of ports and URLs in the code, depending on your own machine's IP address data.
 
